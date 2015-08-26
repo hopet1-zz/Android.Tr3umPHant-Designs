@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="Tr3umPHant-Designs.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Contact.cs">
+    <Files>
+      <File FileName="Image Adapters/IllustrationsImageAdapter.cs" Line="1" Column="1" />
+      <File FileName="Contact.cs" Line="46" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Tr3umPHant-Designs AndroidDesignerPreferredDevice="Nexus S" />
+</Properties>

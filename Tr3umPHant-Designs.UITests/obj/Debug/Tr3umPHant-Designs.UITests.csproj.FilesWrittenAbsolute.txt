@@ -1,0 +1,7 @@
+/Users/Travisty92/Desktop/Mobile Applications & Websites/Android/Tr3umPHant-Designs/Tr3umPHant-Designs.UITests/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/Travisty92/Desktop/Mobile Applications & Websites/Android/Tr3umPHant-Designs/Tr3umPHant-Designs.UITests/bin/Debug/Tr3umPHant-Designs.UITests.dll.mdb
+/Users/Travisty92/Desktop/Mobile Applications & Websites/Android/Tr3umPHant-Designs/Tr3umPHant-Designs.UITests/bin/Debug/Tr3umPHant-Designs.UITests.dll
+/Users/Travisty92/Desktop/Mobile Applications & Websites/Android/Tr3umPHant-Designs/Tr3umPHant-Designs.UITests/obj/Debug/Tr3umPHant-Designs.UITests.dll
+/Users/Travisty92/Desktop/Mobile Applications & Websites/Android/Tr3umPHant-Designs/Tr3umPHant-Designs.UITests/obj/Debug/Tr3umPHant-Designs.UITests.dll.mdb
+/Users/Travisty92/Desktop/Mobile Applications & Websites/Android/Tr3umPHant-Designs/Tr3umPHant-Designs.UITests/bin/Debug/nunit.framework.dll
+/Users/Travisty92/Desktop/Mobile Applications & Websites/Android/Tr3umPHant-Designs/Tr3umPHant-Designs.UITests/bin/Debug/Xamarin.UITest.dll
